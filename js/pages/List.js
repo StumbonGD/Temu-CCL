@@ -60,8 +60,7 @@ export default {
                         </li>
                     </ul>
                     <h2>Records</h2>
-                    <p v-if="selected + 1 <= 100"><strong>{{ level.percentToQualify }}% to qualify.</strong></p>
-                    <p v-else-if="selected +1 <= 200"><strong>100%</strong>% to qualify.</p>
+                    <p v-if="selected + 1 <= 200"><strong>{{ level.percentToQualify }}% to qualify.</strong></p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
