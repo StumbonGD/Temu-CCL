@@ -56,7 +56,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">CBF</div>
-                            <p>{{ Level.CBF || 'Yes' }}</p>
+                            <p>{{ level.CBF || 'Yes' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
