@@ -9,5 +9,11 @@
     "fps": "Any",
     "CBF": "Allowed",
     "records": [
+        {
+            "user": "StumbonGD",
+            "link": "https://youtu.be/S1xT82VLNKc",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
