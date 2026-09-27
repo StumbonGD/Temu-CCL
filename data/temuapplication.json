@@ -20,6 +20,13 @@
             "link": "https://youtu.be/73c0HSmnzYo",
             "hz": "CBF",
             "percent": 100
-        }
+        },
+        {
+             "user": "StumbonGD",
+            "link": "https://cdn.discordapp.com/attachments/1553501356625760387/1553501358404018186/2026-09-26_21-05-43.mp4?ex=6aba2322&is=6ab8d1a2&hm=f5d4aca3b360a4bc66dc8d44d8ec228302eff82c641d21f0e1961e0107ab85d2&",
+            "hz": "240",
+            "percent": 100
+        } 
+
     ]
 }
