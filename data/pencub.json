@@ -9,5 +9,12 @@
     "fps": "240",
     "CBF": "Not Allowed",
     "records": [
+        {
+             "user": "StumbonGD",
+            "link": "https://youtu.be/vE7b5ok6mpM",
+            "hz": "240",
+            "percent": 100
+        } 
+
     ]
 }
