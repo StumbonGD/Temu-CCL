@@ -9,5 +9,12 @@
     "fps": "180",
     "CBF": "Not Allowed",
     "records": [
+        {
+             "user": "StumbonGD",
+            "link": "https://cdn.discordapp.com/attachments/1554174077898461354/1554174079731245097/2026-09-28_17-40-28.mp4?ex=6abbece7&is=6aba9b67&hm=811d90e9c9de504805853afe7a6f8200596cb8d5455b0f0b6d6584d4ef39a147&",
+            "hz": "180",
+            "percent": 100
+        } 
+
     ]
 }
