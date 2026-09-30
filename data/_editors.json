@@ -5,8 +5,13 @@
         "link": "https://www.youtube.com/@stumbongd"
     },
     {
-        "role": "helper",
+        "role": "admin",
         "name": "BtonyRL",
         "link": "https://www.youtube.com/@BtonyRL"
+    },
+    {
+        "role": "helper",
+        "name": "Folded",
+        "link": "https://www.youtube.com/channel/UC-eeGMXJyq9eTpvIcZX8LAg"
     }
 ]
