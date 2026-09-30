@@ -9,5 +9,11 @@
     "fps": "Any",
     "CBF": "Allowed",
     "records": [
+        {
+            "user": "WLarpOff",
+            "link": "https://youtu.be/qKBUnVex7fo",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
