@@ -9,5 +9,11 @@
     "fps": "240",
     "CBF": "Allowed",
     "records": [
+        {
+            "user": "Folded",
+            "link": "https://youtu.be/MmZW-a6uaEw?t=1206",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
