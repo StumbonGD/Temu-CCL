@@ -14,7 +14,13 @@
             "link": "https://cdn.discordapp.com/attachments/1555366363063910500/1555366364599029872/yaaaayyy.mp4?backend=b2&ex=6ac0434e&is=6abef1ce&hm=2dcea92a7a9303ecd8a18b5ae02f10901031b98ceb26813082b315532c07f697&",
             "hz": "240",
             "percent": 100
-        } 
+        },
+        {
+            "user": "something",
+            "link": "https://discord.com/channels/1550560707085344858/1555870826316701748/1555870826316701748",
+            "hz": "CBF",
+            "percent": 100
+        }
 
     ]
 }
