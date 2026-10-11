@@ -9,5 +9,11 @@
     "fps": "Any",
     "CBF": "Allowed",
     "records": [
+        {
+            "user": "maxf",
+            "link": "https://discord.com/channels/1550560707085344858/1558584265434857533/1558594959332999392",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
