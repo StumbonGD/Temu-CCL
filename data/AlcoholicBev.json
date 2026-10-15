@@ -9,5 +9,11 @@
     "fps": "240",
     "CBF": "absolutely NOT",
     "records": [
+        {
+             "user": "NoobyGuy1",
+            "link": "https://cdn.discordapp.com/attachments/1560013370122440735/1560013370621566987/1014_1.mp4?ex=6ad1d3eb&is=6ad0826b&hm=182edca00342c3e22bfecdead8525a9d9a2a09e8874a7674c9c494834e59fd0c&",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
